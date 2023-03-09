@@ -1,0 +1,26 @@
+{
+  "recursos": [
+    {
+      "HomensEmpregados": 0,
+      "HomensDesempregados": 5,
+      "Mulheresempregadas": 0,
+      "MulheresDesempregadas": 5,
+      "CriançasDesempregadas": 0,
+      "Grãos": 0,
+      "Carnes": 0,
+      "Frutas": 100,
+      "Raizes": 0,
+      "Polego": 0,
+      "Couro": 0,
+      "Madeira": 100,
+      "Pedra": 0,
+      "Minériodeferro": 0,
+      "Barradeferro": 0,
+      "Mineriodeprata": 0,
+      "Barradeprata": 0,
+      "Mineriodeouro": 0,
+      "Barradeouro": 0,
+      "id": 0
+    }
+  ]
+}
